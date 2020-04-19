@@ -1,5 +1,7 @@
 # The Game of Hog
 
+![](https://github.com/shelleytao/hog/blob/master/gui_files/GUI%20Capture.gif)
+
 ### 1. Introduction
 This project involves developing a simulator and multiple strategies for the dice game Hog.
 
