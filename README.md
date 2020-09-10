@@ -33,4 +33,4 @@ $ python3 hog_gui.py
 ### 5. Class Project Site
 [here]
 
-[here]: <https://cs61a.org/proj/hog/>
+[here]: <https://inst.eecs.berkeley.edu/~cs61a/sp20/proj/hog/>
